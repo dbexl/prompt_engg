@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1d7bb972edf6411496e4ac1c6dc471c3/artifacts
+end_time: 1736518418462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d7bb972edf6411496e4ac1c6dc471c3
+run_name: langchain-rebellious-rook-51
+run_uuid: 1d7bb972edf6411496e4ac1c6dc471c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736518413417
+status: 3
+tags: []
+user_id: Divyam190916

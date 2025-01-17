@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b44943c29676416386c050009ae82485/artifacts
+end_time: 1736584025879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b44943c29676416386c050009ae82485
+run_name: langchain-chill-boar-745
+run_uuid: b44943c29676416386c050009ae82485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736584024453
+status: 3
+tags: []
+user_id: Divyam190916

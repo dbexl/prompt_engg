@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/162501079d934fb898cb8629636ba8c2/artifacts
+end_time: 1736585210306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 162501079d934fb898cb8629636ba8c2
+run_name: langchain-orderly-pig-436
+run_uuid: 162501079d934fb898cb8629636ba8c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736585207258
+status: 3
+tags: []
+user_id: Divyam190916

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a86f1167a308438fb4eb64bfc28b7a53/artifacts
+end_time: 1736519882834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a86f1167a308438fb4eb64bfc28b7a53
+run_name: langchain-amazing-squirrel-671
+run_uuid: a86f1167a308438fb4eb64bfc28b7a53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736519878844
+status: 3
+tags: []
+user_id: Divyam190916

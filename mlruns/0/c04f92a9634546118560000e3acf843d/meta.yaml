@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c04f92a9634546118560000e3acf843d/artifacts
+end_time: 1736585609535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c04f92a9634546118560000e3acf843d
+run_name: langchain-caring-shoat-699
+run_uuid: c04f92a9634546118560000e3acf843d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736585607964
+status: 3
+tags: []
+user_id: Divyam190916

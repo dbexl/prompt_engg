@@ -1,0 +1,1 @@
+[{"name": "RunnableSequence", "type": "CHAIN", "inputs": ["instructions", "human_input"]}, {"name": "ChatPromptTemplate", "type": "CHAIN", "inputs": ["instructions", "human_input"], "outputs": ["messages"]}, {"name": "ChatGroq", "type": "CHAT_MODEL"}]

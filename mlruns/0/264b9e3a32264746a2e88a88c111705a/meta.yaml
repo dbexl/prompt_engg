@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/264b9e3a32264746a2e88a88c111705a/artifacts
+end_time: 1736584601645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 264b9e3a32264746a2e88a88c111705a
+run_name: langchain-valuable-mare-664
+run_uuid: 264b9e3a32264746a2e88a88c111705a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736584600215
+status: 3
+tags: []
+user_id: Divyam190916

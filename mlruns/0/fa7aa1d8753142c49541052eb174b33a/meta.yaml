@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fa7aa1d8753142c49541052eb174b33a/artifacts
+end_time: 1736762377205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa7aa1d8753142c49541052eb174b33a
+run_name: langchain-beautiful-rat-420
+run_uuid: fa7aa1d8753142c49541052eb174b33a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736762369191
+status: 3
+tags: []
+user_id: Divyam190916

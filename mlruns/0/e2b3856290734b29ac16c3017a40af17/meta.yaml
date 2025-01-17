@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e2b3856290734b29ac16c3017a40af17/artifacts
+end_time: 1736522055355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2b3856290734b29ac16c3017a40af17
+run_name: langchain-melodic-slug-222
+run_uuid: e2b3856290734b29ac16c3017a40af17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736522048777
+status: 3
+tags: []
+user_id: Divyam190916

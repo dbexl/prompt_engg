@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d6611dabc60e41428d89eb6e4dd7fd9f/artifacts
+end_time: 1736584600147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6611dabc60e41428d89eb6e4dd7fd9f
+run_name: langchain-debonair-auk-499
+run_uuid: d6611dabc60e41428d89eb6e4dd7fd9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736584596838
+status: 3
+tags: []
+user_id: Divyam190916

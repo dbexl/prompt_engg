@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6fdbe45370034e9c837329561d0e0455/artifacts
+end_time: 1736519937436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fdbe45370034e9c837329561d0e0455
+run_name: langchain-nosy-zebra-690
+run_uuid: 6fdbe45370034e9c837329561d0e0455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736519935771
+status: 3
+tags: []
+user_id: Divyam190916

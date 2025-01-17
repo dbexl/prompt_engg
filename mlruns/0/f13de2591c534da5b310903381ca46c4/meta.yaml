@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f13de2591c534da5b310903381ca46c4/artifacts
+end_time: 1736583512229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f13de2591c534da5b310903381ca46c4
+run_name: langchain-merciful-fox-275
+run_uuid: f13de2591c534da5b310903381ca46c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736583508543
+status: 3
+tags: []
+user_id: Divyam190916

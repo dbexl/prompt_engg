@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5c6e3731c317492aa41ecaef39716a2b/artifacts
+end_time: 1736518423707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c6e3731c317492aa41ecaef39716a2b
+run_name: langchain-rambunctious-asp-527
+run_uuid: 5c6e3731c317492aa41ecaef39716a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736518420530
+status: 3
+tags: []
+user_id: Divyam190916

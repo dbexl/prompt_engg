@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bd04c8b4cd7e4fd0bc7259ae55207f2a/artifacts
+end_time: 1736518420487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd04c8b4cd7e4fd0bc7259ae55207f2a
+run_name: langchain-clumsy-mink-406
+run_uuid: bd04c8b4cd7e4fd0bc7259ae55207f2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736518418511
+status: 3
+tags: []
+user_id: Divyam190916

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/551b4b1e0506496b879ad37507d874e1/artifacts
+end_time: 1736519942480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 551b4b1e0506496b879ad37507d874e1
+run_name: langchain-dazzling-crab-723
+run_uuid: 551b4b1e0506496b879ad37507d874e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736519939015
+status: 3
+tags: []
+user_id: Divyam190916

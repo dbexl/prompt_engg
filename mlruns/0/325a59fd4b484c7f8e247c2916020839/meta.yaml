@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/325a59fd4b484c7f8e247c2916020839/artifacts
+end_time: 1736521771739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 325a59fd4b484c7f8e247c2916020839
+run_name: langchain-crawling-gnat-119
+run_uuid: 325a59fd4b484c7f8e247c2916020839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736521767293
+status: 3
+tags: []
+user_id: Divyam190916

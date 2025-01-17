@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1eb47541c4ad4400836cc730342c5cab/artifacts
+end_time: 1736521965267
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1eb47541c4ad4400836cc730342c5cab
+run_name: langchain-able-bat-545
+run_uuid: 1eb47541c4ad4400836cc730342c5cab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736521961740
+status: 3
+tags: []
+user_id: Divyam190916

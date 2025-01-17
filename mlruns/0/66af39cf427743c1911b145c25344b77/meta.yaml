@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/66af39cf427743c1911b145c25344b77/artifacts
+end_time: 1736762384236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66af39cf427743c1911b145c25344b77
+run_name: langchain-receptive-horse-432
+run_uuid: 66af39cf427743c1911b145c25344b77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736762377453
+status: 3
+tags: []
+user_id: Divyam190916

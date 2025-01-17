@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a5d2d3eca6b74bb3aa20b00752f9454e/artifacts
+end_time: 1736584495243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5d2d3eca6b74bb3aa20b00752f9454e
+run_name: langchain-respected-hog-717
+run_uuid: a5d2d3eca6b74bb3aa20b00752f9454e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736584491946
+status: 3
+tags: []
+user_id: Divyam190916

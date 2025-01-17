@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f3b228c213d349278c18751f714cb439/artifacts
+end_time: 1736519938967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3b228c213d349278c18751f714cb439
+run_name: langchain-serious-ray-106
+run_uuid: f3b228c213d349278c18751f714cb439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736519937481
+status: 3
+tags: []
+user_id: Divyam190916

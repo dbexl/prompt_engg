@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5e31cac491ca41f58a8a9615e8437677/artifacts
+end_time: 1736521767240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e31cac491ca41f58a8a9615e8437677
+run_name: langchain-peaceful-sheep-189
+run_uuid: 5e31cac491ca41f58a8a9615e8437677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736521763173
+status: 3
+tags: []
+user_id: Divyam190916

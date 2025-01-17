@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/de95b257337643bebf6f739c08bc33ed/artifacts
+end_time: 1736584372171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de95b257337643bebf6f739c08bc33ed
+run_name: langchain-puzzled-stork-157
+run_uuid: de95b257337643bebf6f739c08bc33ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736584367626
+status: 3
+tags: []
+user_id: Divyam190916

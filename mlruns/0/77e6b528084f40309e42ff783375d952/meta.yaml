@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/77e6b528084f40309e42ff783375d952/artifacts
+end_time: 1736583513848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77e6b528084f40309e42ff783375d952
+run_name: langchain-sassy-cat-791
+run_uuid: 77e6b528084f40309e42ff783375d952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736583512269
+status: 3
+tags: []
+user_id: Divyam190916

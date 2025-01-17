@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aa70d50f372046979152e87e133fa021/artifacts
+end_time: 1736584249996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa70d50f372046979152e87e133fa021
+run_name: langchain-wistful-eel-713
+run_uuid: aa70d50f372046979152e87e133fa021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736584239336
+status: 3
+tags: []
+user_id: Divyam190916

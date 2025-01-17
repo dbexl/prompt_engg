@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5aa27ccb4b184ea5bef4fcd8fbe74ba2/artifacts
+end_time: 1736585568968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5aa27ccb4b184ea5bef4fcd8fbe74ba2
+run_name: langchain-abrasive-conch-95
+run_uuid: 5aa27ccb4b184ea5bef4fcd8fbe74ba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736585563458
+status: 3
+tags: []
+user_id: Divyam190916

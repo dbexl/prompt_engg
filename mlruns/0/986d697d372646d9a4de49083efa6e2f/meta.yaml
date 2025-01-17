@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/986d697d372646d9a4de49083efa6e2f/artifacts
+end_time: 1736585220708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 986d697d372646d9a4de49083efa6e2f
+run_name: langchain-crawling-toad-350
+run_uuid: 986d697d372646d9a4de49083efa6e2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736585212555
+status: 3
+tags: []
+user_id: Divyam190916

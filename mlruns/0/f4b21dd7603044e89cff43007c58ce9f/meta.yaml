@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f4b21dd7603044e89cff43007c58ce9f/artifacts
+end_time: 1736519693244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4b21dd7603044e89cff43007c58ce9f
+run_name: langchain-nosy-colt-662
+run_uuid: f4b21dd7603044e89cff43007c58ce9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736519688302
+status: 3
+tags: []
+user_id: Divyam190916

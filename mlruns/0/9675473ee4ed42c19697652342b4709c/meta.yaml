@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9675473ee4ed42c19697652342b4709c/artifacts
+end_time: 1736584032227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9675473ee4ed42c19697652342b4709c
+run_name: langchain-unequaled-hare-218
+run_uuid: 9675473ee4ed42c19697652342b4709c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736584025936
+status: 3
+tags: []
+user_id: Divyam190916

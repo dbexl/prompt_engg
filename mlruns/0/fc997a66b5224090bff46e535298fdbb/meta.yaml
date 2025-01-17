@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fc997a66b5224090bff46e535298fdbb/artifacts
+end_time: 1737102273583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc997a66b5224090bff46e535298fdbb
+run_name: langchain-shivering-skink-562
+run_uuid: fc997a66b5224090bff46e535298fdbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737102265597
+status: 3
+tags: []
+user_id: Divyam190916

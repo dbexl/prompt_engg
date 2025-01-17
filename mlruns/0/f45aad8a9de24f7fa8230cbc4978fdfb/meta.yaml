@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f45aad8a9de24f7fa8230cbc4978fdfb/artifacts
+end_time: 1736522046666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f45aad8a9de24f7fa8230cbc4978fdfb
+run_name: langchain-funny-bear-917
+run_uuid: f45aad8a9de24f7fa8230cbc4978fdfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736522040986
+status: 3
+tags: []
+user_id: Divyam190916

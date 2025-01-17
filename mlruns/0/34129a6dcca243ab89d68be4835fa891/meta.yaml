@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/34129a6dcca243ab89d68be4835fa891/artifacts
+end_time: 1736519945673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34129a6dcca243ab89d68be4835fa891
+run_name: ARI_Calculation
+run_uuid: 34129a6dcca243ab89d68be4835fa891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736519945611
+status: 3
+tags: []
+user_id: Divyam190916

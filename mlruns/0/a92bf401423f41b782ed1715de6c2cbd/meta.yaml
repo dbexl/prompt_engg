@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a92bf401423f41b782ed1715de6c2cbd/artifacts
+end_time: 1737102265511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a92bf401423f41b782ed1715de6c2cbd
+run_name: langchain-bald-robin-939
+run_uuid: a92bf401423f41b782ed1715de6c2cbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737102259693
+status: 3
+tags: []
+user_id: Divyam190916

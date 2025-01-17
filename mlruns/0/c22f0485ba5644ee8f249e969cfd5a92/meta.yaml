@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c22f0485ba5644ee8f249e969cfd5a92/artifacts
+end_time: 1736853707458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c22f0485ba5644ee8f249e969cfd5a92
+run_name: langchain-dashing-fawn-364
+run_uuid: c22f0485ba5644ee8f249e969cfd5a92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736853695049
+status: 3
+tags: []
+user_id: Divyam190916

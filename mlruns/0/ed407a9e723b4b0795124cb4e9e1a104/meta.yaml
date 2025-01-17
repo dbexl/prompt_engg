@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ed407a9e723b4b0795124cb4e9e1a104/artifacts
+end_time: 1737032233722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed407a9e723b4b0795124cb4e9e1a104
+run_name: langchain-brawny-hare-97
+run_uuid: ed407a9e723b4b0795124cb4e9e1a104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737032197217
+status: 3
+tags: []
+user_id: Divyam190916

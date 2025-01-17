@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/92dfd850a5244719bbddd261dd9ea885/artifacts
+end_time: 1736584612701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92dfd850a5244719bbddd261dd9ea885
+run_name: langchain-skittish-hog-308
+run_uuid: 92dfd850a5244719bbddd261dd9ea885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736584607658
+status: 3
+tags: []
+user_id: Divyam190916

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fc9dc551feb04479a1692f700db76804/artifacts
+end_time: 1736519600107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc9dc551feb04479a1692f700db76804
+run_name: langchain-legendary-calf-230
+run_uuid: fc9dc551feb04479a1692f700db76804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736519596727
+status: 3
+tags: []
+user_id: Divyam190916

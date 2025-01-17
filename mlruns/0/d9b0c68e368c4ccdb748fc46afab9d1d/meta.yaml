@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d9b0c68e368c4ccdb748fc46afab9d1d/artifacts
+end_time: 1736584361362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9b0c68e368c4ccdb748fc46afab9d1d
+run_name: langchain-flawless-elk-618
+run_uuid: d9b0c68e368c4ccdb748fc46afab9d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736584359993
+status: 3
+tags: []
+user_id: Divyam190916

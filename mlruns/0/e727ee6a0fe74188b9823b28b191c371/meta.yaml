@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e727ee6a0fe74188b9823b28b191c371/artifacts
+end_time: 1736521496111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e727ee6a0fe74188b9823b28b191c371
+run_name: langchain-auspicious-zebra-545
+run_uuid: e727ee6a0fe74188b9823b28b191c371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736521492571
+status: 3
+tags: []
+user_id: Divyam190916

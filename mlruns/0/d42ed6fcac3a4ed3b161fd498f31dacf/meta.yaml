@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d42ed6fcac3a4ed3b161fd498f31dacf/artifacts
+end_time: 1736585048800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d42ed6fcac3a4ed3b161fd498f31dacf
+run_name: langchain-kindly-gnu-908
+run_uuid: d42ed6fcac3a4ed3b161fd498f31dacf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736585045536
+status: 3
+tags: []
+user_id: Divyam190916

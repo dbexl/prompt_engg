@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d256f9e24f9648d695b852de42e95b65/artifacts
+end_time: 1736519688255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d256f9e24f9648d695b852de42e95b65
+run_name: langchain-legendary-dolphin-96
+run_uuid: d256f9e24f9648d695b852de42e95b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736519684343
+status: 3
+tags: []
+user_id: Divyam190916

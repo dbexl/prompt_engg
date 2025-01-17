@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/26055d3d36324da68cf4f1a418a78d16/artifacts
+end_time: 1736521973907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26055d3d36324da68cf4f1a418a78d16
+run_name: langchain-blushing-asp-942
+run_uuid: 26055d3d36324da68cf4f1a418a78d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736521966789
+status: 3
+tags: []
+user_id: Divyam190916

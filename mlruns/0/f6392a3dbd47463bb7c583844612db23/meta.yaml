@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f6392a3dbd47463bb7c583844612db23/artifacts
+end_time: 1736521252079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6392a3dbd47463bb7c583844612db23
+run_name: langchain-adaptable-swan-993
+run_uuid: f6392a3dbd47463bb7c583844612db23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736521247589
+status: 3
+tags: []
+user_id: Divyam190916

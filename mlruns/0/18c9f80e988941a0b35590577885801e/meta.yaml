@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/18c9f80e988941a0b35590577885801e/artifacts
+end_time: 1737032190496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18c9f80e988941a0b35590577885801e
+run_name: langchain-big-stoat-654
+run_uuid: 18c9f80e988941a0b35590577885801e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737032184044
+status: 3
+tags: []
+user_id: Divyam190916

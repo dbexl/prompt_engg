@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2435ea65a5884314b2f9f0b8842ce06f/artifacts
+end_time: 1736522061431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2435ea65a5884314b2f9f0b8842ce06f
+run_name: langchain-able-midge-593
+run_uuid: 2435ea65a5884314b2f9f0b8842ce06f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736522055439
+status: 3
+tags: []
+user_id: Divyam190916

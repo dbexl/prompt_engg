@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/263064b1af084ad3ad848b0493d11130/artifacts
+end_time: 1736522177953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 263064b1af084ad3ad848b0493d11130
+run_name: langchain-popular-shrew-999
+run_uuid: 263064b1af084ad3ad848b0493d11130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736522176473
+status: 3
+tags: []
+user_id: Divyam190916

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/27daa3c05e734e87b91aee3f5bec2809/artifacts
+end_time: 1736584509357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27daa3c05e734e87b91aee3f5bec2809
+run_name: langchain-stylish-shoat-175
+run_uuid: 27daa3c05e734e87b91aee3f5bec2809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736584504282
+status: 3
+tags: []
+user_id: Divyam190916

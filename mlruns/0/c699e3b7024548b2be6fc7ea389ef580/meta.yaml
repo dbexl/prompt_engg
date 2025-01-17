@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c699e3b7024548b2be6fc7ea389ef580/artifacts
+end_time: 1736585607884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c699e3b7024548b2be6fc7ea389ef580
+run_name: langchain-vaunted-shrimp-501
+run_uuid: c699e3b7024548b2be6fc7ea389ef580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736585606395
+status: 3
+tags: []
+user_id: Divyam190916

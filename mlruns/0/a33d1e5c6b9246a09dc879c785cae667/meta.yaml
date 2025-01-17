@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a33d1e5c6b9246a09dc879c785cae667/artifacts
+end_time: 1736519945544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a33d1e5c6b9246a09dc879c785cae667
+run_name: langchain-fortunate-carp-656
+run_uuid: a33d1e5c6b9246a09dc879c785cae667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736519942531
+status: 3
+tags: []
+user_id: Divyam190916

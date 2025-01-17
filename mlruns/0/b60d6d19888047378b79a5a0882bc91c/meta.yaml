@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b60d6d19888047378b79a5a0882bc91c/artifacts
+end_time: 1736934852481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b60d6d19888047378b79a5a0882bc91c
+run_name: langchain-bold-shrew-572
+run_uuid: b60d6d19888047378b79a5a0882bc91c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736934843738
+status: 3
+tags: []
+user_id: Divyam190916

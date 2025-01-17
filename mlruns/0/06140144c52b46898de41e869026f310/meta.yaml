@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/06140144c52b46898de41e869026f310/artifacts
+end_time: 1736521245789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06140144c52b46898de41e869026f310
+run_name: langchain-nervous-whale-618
+run_uuid: 06140144c52b46898de41e869026f310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736521241796
+status: 3
+tags: []
+user_id: Divyam190916

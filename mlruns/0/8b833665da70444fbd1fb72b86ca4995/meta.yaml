@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8b833665da70444fbd1fb72b86ca4995/artifacts
+end_time: 1737032197156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b833665da70444fbd1fb72b86ca4995
+run_name: langchain-righteous-mule-667
+run_uuid: 8b833665da70444fbd1fb72b86ca4995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737032190562
+status: 3
+tags: []
+user_id: Divyam190916

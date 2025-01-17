@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fbbd020e2c68445082c4e02c124c9ec5/artifacts
+end_time: 1736518637027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbbd020e2c68445082c4e02c124c9ec5
+run_name: langchain-magnificent-dog-346
+run_uuid: fbbd020e2c68445082c4e02c124c9ec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736518630991
+status: 3
+tags: []
+user_id: Divyam190916

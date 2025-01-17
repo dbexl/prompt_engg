@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/898097a7579244aeaef6680348d9df00/artifacts
+end_time: 1736521763130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 898097a7579244aeaef6680348d9df00
+run_name: langchain-tasteful-slug-599
+run_uuid: 898097a7579244aeaef6680348d9df00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736521761554
+status: 3
+tags: []
+user_id: Divyam190916

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2016d78723364b1fae07404d51d79efa/artifacts
+end_time: 1736583521371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2016d78723364b1fae07404d51d79efa
+run_name: langchain-magnificent-elk-598
+run_uuid: 2016d78723364b1fae07404d51d79efa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736583517412
+status: 3
+tags: []
+user_id: Divyam190916

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9fd47bdb71314cc29c33ed83284c6e2b/artifacts
+end_time: 1736585050362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fd47bdb71314cc29c33ed83284c6e2b
+run_name: langchain-wise-colt-783
+run_uuid: 9fd47bdb71314cc29c33ed83284c6e2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736585048860
+status: 3
+tags: []
+user_id: Divyam190916

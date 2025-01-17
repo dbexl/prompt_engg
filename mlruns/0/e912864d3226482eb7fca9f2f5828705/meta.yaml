@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e912864d3226482eb7fca9f2f5828705/artifacts
+end_time: 1736584328592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e912864d3226482eb7fca9f2f5828705
+run_name: langchain-chill-skunk-236
+run_uuid: e912864d3226482eb7fca9f2f5828705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736584326882
+status: 4
+tags: []
+user_id: Divyam190916

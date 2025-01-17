@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8b6ceef94aa145c5b5de6fe27ef75b4a/artifacts
+end_time: 1736762390461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b6ceef94aa145c5b5de6fe27ef75b4a
+run_name: langchain-polite-auk-336
+run_uuid: 8b6ceef94aa145c5b5de6fe27ef75b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736762384427
+status: 3
+tags: []
+user_id: Divyam190916

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/11257a2b76b74b0bb018b68a85d097da/artifacts
+end_time: 1736584326834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11257a2b76b74b0bb018b68a85d097da
+run_name: langchain-exultant-ant-92
+run_uuid: 11257a2b76b74b0bb018b68a85d097da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736584325446
+status: 3
+tags: []
+user_id: Divyam190916

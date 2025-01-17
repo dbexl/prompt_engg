@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/03a5baccdf4843f280b521bbbfc548b4/artifacts
+end_time: 1736522176424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03a5baccdf4843f280b521bbbfc548b4
+run_name: langchain-big-finch-125
+run_uuid: 03a5baccdf4843f280b521bbbfc548b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736522172811
+status: 3
+tags: []
+user_id: Divyam190916
